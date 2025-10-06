@@ -1,7 +1,7 @@
 # 🎬 Rockbuster Stealth SQL Analysis
 
 ## 📘 Overview
-This project explores data analysis for **Rockbuster Stealth LLC**, a global movie rental company transitioning from physical stores to an **online streaming service**.  
+This project explores data analysis for **Rockbuster Stealth LLC**, a fictional global movie rental company transitioning from physical stores to an **online streaming service**.  
 As a data analyst, I used **PostgreSQL** to analyze Rockbuster’s historical data and deliver actionable insights to support their strategic move into the digital market.
 
 ---
