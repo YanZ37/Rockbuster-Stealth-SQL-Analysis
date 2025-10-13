@@ -64,11 +64,5 @@ The relational database provided includes customer, film, and payment informatio
 - Enhanced understanding of relational database design and querying  
 - Developed practical insights for strategic decision-making in a real-world business scenario  
 
----
 
-## 📎 References
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)  
-- [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/)  
-
-## 📁 Project Structure
 
